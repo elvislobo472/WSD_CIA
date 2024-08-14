@@ -1,0 +1,21 @@
+.container {
+    padding: 20px;
+}
+
+.photo-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.photo-grid img {
+    width: calc(25% - 10px);
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.5s ease-in-out ;
+}
+
+.photo-grid img:hover
+{
+    transform: scale(1.5);
+} 

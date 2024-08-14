@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="projects.xsl"?>
+<projects>
+    <project>
+        <title>Project 1</title>
+        <description>ELVIZ RESTAURANT</description>
+        <technologies>
+            <technology>HTML</technology>
+            <technology>CSS</technology>
+            <technology>JavaScript</technology>
+        </technologies>
+    </project>
+    <project>
+        <title>Project 2</title>
+        <description>IMAGE</description>
+        <technologies>
+            <technology>HTML</technology>
+            <technology>CSS</technology>
+            <technology>Javascript</technology>
+        </technologies>
+    </project>
+</projects>
